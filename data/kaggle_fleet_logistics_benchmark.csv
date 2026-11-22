@@ -1,0 +1,11 @@
+vin,vehicle_model,license_plate,driver_name,hub_city,route_corridor,trip_distance_miles,fuel_consumed_gal,actual_mpg,expected_mpg,fuel_variance_pct,delay_minutes,delay_reason,maintenance_cost_usd,operational_status
+1FTFW1ED8MFC10921,Freightliner Cascadia 126,IL-TRK-4401,Marcus Vance,Chicago IL,Chicago to Detroit,284.5,48.2,5.90,7.10,+20.3%,45,I-94 E Congestion & Blizzard,1250.00,IN_TRANSIT
+3AKJHHDR5LS981244,Volvo VNL 860,IN-TRK-7812,Sarah Jenkins,Indianapolis IN,Indy to Columbus,175.2,25.8,6.79,7.20,+6.0%,0,None,320.00,COMPLETED
+1NKHHMDX9MM871239,Kenworth T680,MI-TRK-3190,Carlos Ortiz,Detroit MI,Detroit to Cleveland,169.8,31.4,5.41,6.80,+25.7%,85,Ambassador Bridge Inspection Delay,2480.00,DELAYED
+2FTNE24L2WCA44192,Peterbilt 579,OH-TRK-6643,Elena Rostova,Columbus OH,Columbus to Pittsburgh,185.0,26.4,7.01,7.00,-0.1%,10,Minor Toll Plaza Queue,180.00,COMPLETED
+1FUJBCG86LP109281,Freightliner Cascadia 116,PA-TRK-5521,Derrick Miller,Pittsburgh PA,Pittsburgh to Philadelphia,305.4,47.7,6.40,6.90,+7.8%,25,Turnpike Construction,640.00,IN_TRANSIT
+3ALACWD58KFD341902,Mack Anthem 70,WI-TRK-9014,Samantha Wu,Milwaukee WI,Milwaukee to Chicago,92.1,14.8,6.22,6.50,+4.5%,15,Downtown Ramp Maintenance,210.00,COMPLETED
+1XKAD49X6CJ882103,Kenworth W990,IL-TRK-1192,James Thornton,Chicago IL,Chicago to St Louis,297.8,55.1,5.40,6.80,+25.9%,110,I-55 Pavement Resurfacing,3100.00,FLAGGED_ANOMALY
+2FZACXDX8GKA901243,International LT Series,TN-TRK-8831,Amina Al-Mansoor,Nashville TN,Nashville to Atlanta,248.6,36.5,6.81,7.10,+4.2%,20,Chattanooga Ridge Traffic,450.00,IN_TRANSIT
+1FT8W3BT9NEC449102,Volvo VNL 760,GA-TRK-2245,Robert Kowalski,Atlanta GA,Atlanta to Jacksonville,346.2,49.5,6.99,7.20,+3.0%,5,Clear Highway Run,380.00,COMPLETED
+3AKJGLDR7NS119842,Freightliner Cascadia 126,TX-TRK-9904,David Chen,Dallas TX,Dallas to Houston,239.4,44.3,5.40,7.00,+29.6%,95,I-45 Flooding Detour,2850.00,FLAGGED_ANOMALY

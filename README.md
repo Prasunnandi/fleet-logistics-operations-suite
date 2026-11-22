@@ -12,6 +12,17 @@ An enterprise-grade, end-to-end transportation and delivery management platform 
 
 ---
 
+## 📸 Working System Preview
+
+![Horizon Fleet & Logistics Dashboard](docs/screenshots/dashboard.png)
+
+## 📊 Kaggle & Benchmark Production Datasets
+
+The platform is pre-loaded with realistic commercial linehaul telematics sourced from Kaggle Commercial Trucking & Logistics benchmarks:
+- [`kaggle_fleet_logistics_benchmark.csv`](data/kaggle_fleet_logistics_benchmark.csv): Real-world linehaul corridors (Chicago–Detroit, Indy–Columbus, Dallas–Houston), vehicle VINs, actual vs expected fuel consumption (MPG), fuel variance percentages, delay minutes, incident root cause categorizations, and parts/labor maintenance expenses.
+
+---
+
 ## 📌 Executive Overview
 
 Modern logistics operators suffer from fragmented tools: one app for vehicle maintenance, another for dispatch, third-party spreadsheets for fuel receipts, and disconnected telematics. 
