@@ -1,0 +1,1537 @@
+{
+  "fleetLogTitle": "Commercial Long-Haul Fleet Telematics & Fuel Ingestion Dataset",
+  "totalTrackedTrucks": 10,
+  "activeInTransitCount": 3,
+  "telematicsLogs": [
+    {
+      "vin": "1FTFW1ED8MFC10921",
+      "vehicleModel": "Freightliner Cascadia 126",
+      "licensePlate": "IL-TRK-4401",
+      "driverName": "Marcus Vance",
+      "hubCity": "Chicago IL",
+      "routeCorridor": "Chicago to Detroit",
+      "tripDistanceMiles": 284.5,
+      "fuelConsumedGal": 48.2,
+      "actualMpg": 5.9,
+      "expectedMpg": 7.1,
+      "fuelVariancePct": "+20.3%",
+      "delayMinutes": 45,
+      "delayReason": "I-94 E Congestion & Blizzard",
+      "operationalStatus": "IN_TRANSIT",
+      "telematicsBreadcrumbs": [
+        {
+          "waypointIndex": 1,
+          "latitude": 41.87738,
+          "longitude": -87.63066,
+          "speedMph": 58.6,
+          "engineRpm": 1364,
+          "coolantTempF": 189,
+          "fuelLevelPct": 100.0
+        },
+        {
+          "waypointIndex": 2,
+          "latitude": 41.90984,
+          "longitude": -87.30986,
+          "speedMph": 66.6,
+          "engineRpm": 1294,
+          "coolantTempF": 203,
+          "fuelLevelPct": 94.8
+        },
+        {
+          "waypointIndex": 3,
+          "latitude": 41.94177,
+          "longitude": -86.97436,
+          "speedMph": 57.8,
+          "engineRpm": 1508,
+          "coolantTempF": 204,
+          "fuelLevelPct": 89.7
+        },
+        {
+          "waypointIndex": 4,
+          "latitude": 41.97852,
+          "longitude": -86.64696,
+          "speedMph": 63.4,
+          "engineRpm": 1529,
+          "coolantTempF": 198,
+          "fuelLevelPct": 84.5
+        },
+        {
+          "waypointIndex": 5,
+          "latitude": 42.00885,
+          "longitude": -86.31353,
+          "speedMph": 65.5,
+          "engineRpm": 1253,
+          "coolantTempF": 190,
+          "fuelLevelPct": 79.3
+        },
+        {
+          "waypointIndex": 6,
+          "latitude": 42.03853,
+          "longitude": -85.99698,
+          "speedMph": 57.0,
+          "engineRpm": 1640,
+          "coolantTempF": 195,
+          "fuelLevelPct": 74.2
+        },
+        {
+          "waypointIndex": 7,
+          "latitude": 42.07629,
+          "longitude": -85.6623,
+          "speedMph": 59.7,
+          "engineRpm": 1426,
+          "coolantTempF": 204,
+          "fuelLevelPct": 69.0
+        },
+        {
+          "waypointIndex": 8,
+          "latitude": 42.10461,
+          "longitude": -85.33632,
+          "speedMph": 61.0,
+          "engineRpm": 1313,
+          "coolantTempF": 197,
+          "fuelLevelPct": 63.8
+        },
+        {
+          "waypointIndex": 9,
+          "latitude": 42.14079,
+          "longitude": -85.00839,
+          "speedMph": 63.2,
+          "engineRpm": 1435,
+          "coolantTempF": 203,
+          "fuelLevelPct": 58.7
+        },
+        {
+          "waypointIndex": 10,
+          "latitude": 42.17018,
+          "longitude": -84.68117,
+          "speedMph": 63.6,
+          "engineRpm": 1645,
+          "coolantTempF": 194,
+          "fuelLevelPct": 53.5
+        },
+        {
+          "waypointIndex": 11,
+          "latitude": 42.21167,
+          "longitude": -84.35643,
+          "speedMph": 66.3,
+          "engineRpm": 1444,
+          "coolantTempF": 193,
+          "fuelLevelPct": 48.4
+        },
+        {
+          "waypointIndex": 12,
+          "latitude": 42.22519,
+          "longitude": -84.02535,
+          "speedMph": 57.1,
+          "engineRpm": 1431,
+          "coolantTempF": 191,
+          "fuelLevelPct": 43.2
+        },
+        {
+          "waypointIndex": 13,
+          "latitude": 42.2629,
+          "longitude": -83.70748,
+          "speedMph": 63.9,
+          "engineRpm": 1286,
+          "coolantTempF": 204,
+          "fuelLevelPct": 38.0
+        },
+        {
+          "waypointIndex": 14,
+          "latitude": 42.29493,
+          "longitude": -83.37786,
+          "speedMph": 58.2,
+          "engineRpm": 1486,
+          "coolantTempF": 197,
+          "fuelLevelPct": 32.9
+        },
+        {
+          "waypointIndex": 15,
+          "latitude": 42.32998,
+          "longitude": -83.0345,
+          "speedMph": 63.9,
+          "engineRpm": 1362,
+          "coolantTempF": 195,
+          "fuelLevelPct": 27.7
+        }
+      ]
+    },
+    {
+      "vin": "3AKJHHDR5LS981244",
+      "vehicleModel": "Volvo VNL 860",
+      "licensePlate": "IN-TRK-7812",
+      "driverName": "Sarah Jenkins",
+      "hubCity": "Indianapolis IN",
+      "routeCorridor": "Indy to Columbus",
+      "tripDistanceMiles": 175.2,
+      "fuelConsumedGal": 25.8,
+      "actualMpg": 6.79,
+      "expectedMpg": 7.2,
+      "fuelVariancePct": "+6.0%",
+      "delayMinutes": 0,
+      "delayReason": "None",
+      "operationalStatus": "COMPLETED",
+      "telematicsBreadcrumbs": [
+        {
+          "waypointIndex": 1,
+          "latitude": 39.77316,
+          "longitude": -86.16532,
+          "speedMph": 58.0,
+          "engineRpm": 1266,
+          "coolantTempF": 195,
+          "fuelLevelPct": 100.0
+        },
+        {
+          "waypointIndex": 2,
+          "latitude": 39.78067,
+          "longitude": -85.93136,
+          "speedMph": 66.9,
+          "engineRpm": 1540,
+          "coolantTempF": 195,
+          "fuelLevelPct": 97.2
+        },
+        {
+          "waypointIndex": 3,
+          "latitude": 39.79731,
+          "longitude": -85.70105,
+          "speedMph": 66.5,
+          "engineRpm": 1579,
+          "coolantTempF": 199,
+          "fuelLevelPct": 94.5
+        },
+        {
+          "waypointIndex": 4,
+          "latitude": 39.81142,
+          "longitude": -85.47896,
+          "speedMph": 64.7,
+          "engineRpm": 1525,
+          "coolantTempF": 193,
+          "fuelLevelPct": 91.7
+        },
+        {
+          "waypointIndex": 5,
+          "latitude": 39.82339,
+          "longitude": -85.26073,
+          "speedMph": 62.6,
+          "engineRpm": 1435,
+          "coolantTempF": 192,
+          "fuelLevelPct": 88.9
+        },
+        {
+          "waypointIndex": 6,
+          "latitude": 39.83999,
+          "longitude": -85.02982,
+          "speedMph": 61.4,
+          "engineRpm": 1636,
+          "coolantTempF": 186,
+          "fuelLevelPct": 86.2
+        },
+        {
+          "waypointIndex": 7,
+          "latitude": 39.85288,
+          "longitude": -84.80632,
+          "speedMph": 57.1,
+          "engineRpm": 1598,
+          "coolantTempF": 198,
+          "fuelLevelPct": 83.4
+        },
+        {
+          "waypointIndex": 8,
+          "latitude": 39.86075,
+          "longitude": -84.58126,
+          "speedMph": 62.7,
+          "engineRpm": 1489,
+          "coolantTempF": 201,
+          "fuelLevelPct": 80.7
+        },
+        {
+          "waypointIndex": 9,
+          "latitude": 39.87852,
+          "longitude": -84.34644,
+          "speedMph": 67.3,
+          "engineRpm": 1598,
+          "coolantTempF": 188,
+          "fuelLevelPct": 77.9
+        },
+        {
+          "waypointIndex": 10,
+          "latitude": 39.88976,
+          "longitude": -84.13276,
+          "speedMph": 58.5,
+          "engineRpm": 1578,
+          "coolantTempF": 195,
+          "fuelLevelPct": 75.1
+        },
+        {
+          "waypointIndex": 11,
+          "latitude": 39.9102,
+          "longitude": -83.89801,
+          "speedMph": 60.9,
+          "engineRpm": 1619,
+          "coolantTempF": 193,
+          "fuelLevelPct": 72.4
+        },
+        {
+          "waypointIndex": 12,
+          "latitude": 39.92823,
+          "longitude": -83.67728,
+          "speedMph": 61.6,
+          "engineRpm": 1304,
+          "coolantTempF": 205,
+          "fuelLevelPct": 69.6
+        },
+        {
+          "waypointIndex": 13,
+          "latitude": 39.93152,
+          "longitude": -83.44332,
+          "speedMph": 62.9,
+          "engineRpm": 1328,
+          "coolantTempF": 196,
+          "fuelLevelPct": 66.8
+        },
+        {
+          "waypointIndex": 14,
+          "latitude": 39.94792,
+          "longitude": -83.23067,
+          "speedMph": 65.1,
+          "engineRpm": 1521,
+          "coolantTempF": 185,
+          "fuelLevelPct": 64.1
+        },
+        {
+          "waypointIndex": 15,
+          "latitude": 39.95649,
+          "longitude": -83.00217,
+          "speedMph": 56.5,
+          "engineRpm": 1435,
+          "coolantTempF": 194,
+          "fuelLevelPct": 61.3
+        }
+      ]
+    },
+    {
+      "vin": "1NKHHMDX9MM871239",
+      "vehicleModel": "Kenworth T680",
+      "licensePlate": "MI-TRK-3190",
+      "driverName": "Carlos Ortiz",
+      "hubCity": "Detroit MI",
+      "routeCorridor": "Detroit to Cleveland",
+      "tripDistanceMiles": 169.8,
+      "fuelConsumedGal": 31.4,
+      "actualMpg": 5.41,
+      "expectedMpg": 6.8,
+      "fuelVariancePct": "+25.7%",
+      "delayMinutes": 85,
+      "delayReason": "Ambassador Bridge Inspection Delay",
+      "operationalStatus": "DELAYED",
+      "telematicsBreadcrumbs": [
+        {
+          "waypointIndex": 1,
+          "latitude": 42.33165,
+          "longitude": -83.0421,
+          "speedMph": 26.3,
+          "engineRpm": 1290,
+          "coolantTempF": 187,
+          "fuelLevelPct": 100.0
+        },
+        {
+          "waypointIndex": 2,
+          "latitude": 42.27092,
+          "longitude": -82.95841,
+          "speedMph": 34.6,
+          "engineRpm": 1522,
+          "coolantTempF": 189,
+          "fuelLevelPct": 96.6
+        },
+        {
+          "waypointIndex": 3,
+          "latitude": 42.21646,
+          "longitude": -82.84864,
+          "speedMph": 26.0,
+          "engineRpm": 1385,
+          "coolantTempF": 201,
+          "fuelLevelPct": 93.3
+        },
+        {
+          "waypointIndex": 4,
+          "latitude": 42.15674,
+          "longitude": -82.75998,
+          "speedMph": 19.2,
+          "engineRpm": 1526,
+          "coolantTempF": 191,
+          "fuelLevelPct": 89.9
+        },
+        {
+          "waypointIndex": 5,
+          "latitude": 42.09249,
+          "longitude": -82.6646,
+          "speedMph": 28.4,
+          "engineRpm": 1441,
+          "coolantTempF": 199,
+          "fuelLevelPct": 86.5
+        },
+        {
+          "waypointIndex": 6,
+          "latitude": 42.03865,
+          "longitude": -82.56639,
+          "speedMph": 20.0,
+          "engineRpm": 1282,
+          "coolantTempF": 195,
+          "fuelLevelPct": 83.2
+        },
+        {
+          "waypointIndex": 7,
+          "latitude": 41.98108,
+          "longitude": -82.46579,
+          "speedMph": 26.8,
+          "engineRpm": 1253,
+          "coolantTempF": 187,
+          "fuelLevelPct": 79.8
+        },
+        {
+          "waypointIndex": 8,
+          "latitude": 41.91489,
+          "longitude": -82.37178,
+          "speedMph": 16.3,
+          "engineRpm": 1266,
+          "coolantTempF": 195,
+          "fuelLevelPct": 76.5
+        },
+        {
+          "waypointIndex": 9,
+          "latitude": 41.85924,
+          "longitude": -82.27198,
+          "speedMph": 28.4,
+          "engineRpm": 1359,
+          "coolantTempF": 202,
+          "fuelLevelPct": 73.1
+        },
+        {
+          "waypointIndex": 10,
+          "latitude": 41.80437,
+          "longitude": -82.16839,
+          "speedMph": 26.4,
+          "engineRpm": 1492,
+          "coolantTempF": 192,
+          "fuelLevelPct": 69.7
+        },
+        {
+          "waypointIndex": 11,
+          "latitude": 41.739,
+          "longitude": -82.08938,
+          "speedMph": 18.8,
+          "engineRpm": 1299,
+          "coolantTempF": 198,
+          "fuelLevelPct": 66.4
+        },
+        {
+          "waypointIndex": 12,
+          "latitude": 41.67447,
+          "longitude": -81.97991,
+          "speedMph": 32.3,
+          "engineRpm": 1277,
+          "coolantTempF": 205,
+          "fuelLevelPct": 63.0
+        },
+        {
+          "waypointIndex": 13,
+          "latitude": 41.62044,
+          "longitude": -81.88768,
+          "speedMph": 23.1,
+          "engineRpm": 1423,
+          "coolantTempF": 188,
+          "fuelLevelPct": 59.6
+        },
+        {
+          "waypointIndex": 14,
+          "latitude": 41.55876,
+          "longitude": -81.78768,
+          "speedMph": 24.0,
+          "engineRpm": 1466,
+          "coolantTempF": 190,
+          "fuelLevelPct": 56.3
+        },
+        {
+          "waypointIndex": 15,
+          "latitude": 41.49862,
+          "longitude": -81.69067,
+          "speedMph": 33.5,
+          "engineRpm": 1476,
+          "coolantTempF": 202,
+          "fuelLevelPct": 52.9
+        }
+      ]
+    },
+    {
+      "vin": "2FTNE24L2WCA44192",
+      "vehicleModel": "Peterbilt 579",
+      "licensePlate": "OH-TRK-6643",
+      "driverName": "Elena Rostova",
+      "hubCity": "Columbus OH",
+      "routeCorridor": "Columbus to Pittsburgh",
+      "tripDistanceMiles": 185.0,
+      "fuelConsumedGal": 26.4,
+      "actualMpg": 7.01,
+      "expectedMpg": 7.0,
+      "fuelVariancePct": "-0.1%",
+      "delayMinutes": 10,
+      "delayReason": "Minor Toll Plaza Queue",
+      "operationalStatus": "COMPLETED",
+      "telematicsBreadcrumbs": [
+        {
+          "waypointIndex": 1,
+          "latitude": 39.96713,
+          "longitude": -82.99461,
+          "speedMph": 62.0,
+          "engineRpm": 1257,
+          "coolantTempF": 187,
+          "fuelLevelPct": 100.0
+        },
+        {
+          "waypointIndex": 2,
+          "latitude": 40.00414,
+          "longitude": -82.78864,
+          "speedMph": 57.2,
+          "engineRpm": 1498,
+          "coolantTempF": 200,
+          "fuelLevelPct": 97.2
+        },
+        {
+          "waypointIndex": 3,
+          "latitude": 40.03083,
+          "longitude": -82.56488,
+          "speedMph": 55.8,
+          "engineRpm": 1444,
+          "coolantTempF": 185,
+          "fuelLevelPct": 94.3
+        },
+        {
+          "waypointIndex": 4,
+          "latitude": 40.06784,
+          "longitude": -82.35568,
+          "speedMph": 65.2,
+          "engineRpm": 1482,
+          "coolantTempF": 194,
+          "fuelLevelPct": 91.5
+        },
+        {
+          "waypointIndex": 5,
+          "latitude": 40.08705,
+          "longitude": -82.13499,
+          "speedMph": 67.9,
+          "engineRpm": 1534,
+          "coolantTempF": 200,
+          "fuelLevelPct": 88.7
+        },
+        {
+          "waypointIndex": 6,
+          "latitude": 40.13478,
+          "longitude": -81.92287,
+          "speedMph": 67.6,
+          "engineRpm": 1546,
+          "coolantTempF": 202,
+          "fuelLevelPct": 85.9
+        },
+        {
+          "waypointIndex": 7,
+          "latitude": 40.17068,
+          "longitude": -81.71022,
+          "speedMph": 55.7,
+          "engineRpm": 1494,
+          "coolantTempF": 201,
+          "fuelLevelPct": 83.0
+        },
+        {
+          "waypointIndex": 8,
+          "latitude": 40.20628,
+          "longitude": -81.50034,
+          "speedMph": 55.7,
+          "engineRpm": 1510,
+          "coolantTempF": 187,
+          "fuelLevelPct": 80.2
+        },
+        {
+          "waypointIndex": 9,
+          "latitude": 40.23626,
+          "longitude": -81.28437,
+          "speedMph": 55.9,
+          "engineRpm": 1370,
+          "coolantTempF": 197,
+          "fuelLevelPct": 77.4
+        },
+        {
+          "waypointIndex": 10,
+          "latitude": 40.27705,
+          "longitude": -81.06117,
+          "speedMph": 58.2,
+          "engineRpm": 1554,
+          "coolantTempF": 186,
+          "fuelLevelPct": 74.5
+        },
+        {
+          "waypointIndex": 11,
+          "latitude": 40.29982,
+          "longitude": -80.85742,
+          "speedMph": 62.6,
+          "engineRpm": 1517,
+          "coolantTempF": 195,
+          "fuelLevelPct": 71.7
+        },
+        {
+          "waypointIndex": 12,
+          "latitude": 40.34097,
+          "longitude": -80.64073,
+          "speedMph": 64.3,
+          "engineRpm": 1372,
+          "coolantTempF": 193,
+          "fuelLevelPct": 68.9
+        },
+        {
+          "waypointIndex": 13,
+          "latitude": 40.3662,
+          "longitude": -80.42034,
+          "speedMph": 58.9,
+          "engineRpm": 1411,
+          "coolantTempF": 187,
+          "fuelLevelPct": 66.1
+        },
+        {
+          "waypointIndex": 14,
+          "latitude": 40.41331,
+          "longitude": -80.20999,
+          "speedMph": 62.3,
+          "engineRpm": 1301,
+          "coolantTempF": 187,
+          "fuelLevelPct": 63.2
+        },
+        {
+          "waypointIndex": 15,
+          "latitude": 40.43483,
+          "longitude": -79.99729,
+          "speedMph": 56.7,
+          "engineRpm": 1428,
+          "coolantTempF": 187,
+          "fuelLevelPct": 60.4
+        }
+      ]
+    },
+    {
+      "vin": "1FUJBCG86LP109281",
+      "vehicleModel": "Freightliner Cascadia 116",
+      "licensePlate": "PA-TRK-5521",
+      "driverName": "Derrick Miller",
+      "hubCity": "Pittsburgh PA",
+      "routeCorridor": "Pittsburgh to Philadelphia",
+      "tripDistanceMiles": 305.4,
+      "fuelConsumedGal": 47.7,
+      "actualMpg": 6.4,
+      "expectedMpg": 6.9,
+      "fuelVariancePct": "+7.8%",
+      "delayMinutes": 25,
+      "delayReason": "Turnpike Construction",
+      "operationalStatus": "IN_TRANSIT",
+      "telematicsBreadcrumbs": [
+        {
+          "waypointIndex": 1,
+          "latitude": 41.88159,
+          "longitude": -87.6331,
+          "speedMph": 57.1,
+          "engineRpm": 1528,
+          "coolantTempF": 194,
+          "fuelLevelPct": 100.0
+        },
+        {
+          "waypointIndex": 2,
+          "latitude": 41.8992,
+          "longitude": -87.3119,
+          "speedMph": 63.5,
+          "engineRpm": 1254,
+          "coolantTempF": 202,
+          "fuelLevelPct": 94.9
+        },
+        {
+          "waypointIndex": 3,
+          "latitude": 41.9406,
+          "longitude": -86.96792,
+          "speedMph": 67.2,
+          "engineRpm": 1318,
+          "coolantTempF": 193,
+          "fuelLevelPct": 89.8
+        },
+        {
+          "waypointIndex": 4,
+          "latitude": 41.97702,
+          "longitude": -86.64594,
+          "speedMph": 62.2,
+          "engineRpm": 1389,
+          "coolantTempF": 194,
+          "fuelLevelPct": 84.7
+        },
+        {
+          "waypointIndex": 5,
+          "latitude": 42.00133,
+          "longitude": -86.32495,
+          "speedMph": 57.6,
+          "engineRpm": 1574,
+          "coolantTempF": 193,
+          "fuelLevelPct": 79.6
+        },
+        {
+          "waypointIndex": 6,
+          "latitude": 42.03619,
+          "longitude": -85.99279,
+          "speedMph": 66.8,
+          "engineRpm": 1276,
+          "coolantTempF": 187,
+          "fuelLevelPct": 74.4
+        },
+        {
+          "waypointIndex": 7,
+          "latitude": 42.06612,
+          "longitude": -85.67225,
+          "speedMph": 55.6,
+          "engineRpm": 1420,
+          "coolantTempF": 189,
+          "fuelLevelPct": 69.3
+        },
+        {
+          "waypointIndex": 8,
+          "latitude": 42.10221,
+          "longitude": -85.34076,
+          "speedMph": 64.6,
+          "engineRpm": 1532,
+          "coolantTempF": 198,
+          "fuelLevelPct": 64.2
+        },
+        {
+          "waypointIndex": 9,
+          "latitude": 42.13487,
+          "longitude": -85.01128,
+          "speedMph": 67.3,
+          "engineRpm": 1603,
+          "coolantTempF": 189,
+          "fuelLevelPct": 59.1
+        },
+        {
+          "waypointIndex": 10,
+          "latitude": 42.16041,
+          "longitude": -84.68562,
+          "speedMph": 62.6,
+          "engineRpm": 1325,
+          "coolantTempF": 198,
+          "fuelLevelPct": 54.0
+        },
+        {
+          "waypointIndex": 11,
+          "latitude": 42.20487,
+          "longitude": -84.35243,
+          "speedMph": 66.7,
+          "engineRpm": 1270,
+          "coolantTempF": 196,
+          "fuelLevelPct": 48.9
+        },
+        {
+          "waypointIndex": 12,
+          "latitude": 42.2352,
+          "longitude": -84.02442,
+          "speedMph": 56.3,
+          "engineRpm": 1649,
+          "coolantTempF": 202,
+          "fuelLevelPct": 43.8
+        },
+        {
+          "waypointIndex": 13,
+          "latitude": 42.27045,
+          "longitude": -83.70405,
+          "speedMph": 63.1,
+          "engineRpm": 1329,
+          "coolantTempF": 192,
+          "fuelLevelPct": 38.7
+        },
+        {
+          "waypointIndex": 14,
+          "latitude": 42.30804,
+          "longitude": -83.38351,
+          "speedMph": 65.5,
+          "engineRpm": 1461,
+          "coolantTempF": 185,
+          "fuelLevelPct": 33.6
+        },
+        {
+          "waypointIndex": 15,
+          "latitude": 42.33628,
+          "longitude": -83.03554,
+          "speedMph": 65.2,
+          "engineRpm": 1460,
+          "coolantTempF": 192,
+          "fuelLevelPct": 28.4
+        }
+      ]
+    },
+    {
+      "vin": "3ALACWD58KFD341902",
+      "vehicleModel": "Mack Anthem 70",
+      "licensePlate": "WI-TRK-9014",
+      "driverName": "Samantha Wu",
+      "hubCity": "Milwaukee WI",
+      "routeCorridor": "Milwaukee to Chicago",
+      "tripDistanceMiles": 92.1,
+      "fuelConsumedGal": 14.8,
+      "actualMpg": 6.22,
+      "expectedMpg": 6.5,
+      "fuelVariancePct": "+4.5%",
+      "delayMinutes": 15,
+      "delayReason": "Downtown Ramp Maintenance",
+      "operationalStatus": "COMPLETED",
+      "telematicsBreadcrumbs": [
+        {
+          "waypointIndex": 1,
+          "latitude": 41.87717,
+          "longitude": -87.62105,
+          "speedMph": 56.4,
+          "engineRpm": 1269,
+          "coolantTempF": 200,
+          "fuelLevelPct": 100.0
+        },
+        {
+          "waypointIndex": 2,
+          "latitude": 41.91207,
+          "longitude": -87.2933,
+          "speedMph": 61.0,
+          "engineRpm": 1406,
+          "coolantTempF": 192,
+          "fuelLevelPct": 98.4
+        },
+        {
+          "waypointIndex": 3,
+          "latitude": 41.9441,
+          "longitude": -86.9677,
+          "speedMph": 60.2,
+          "engineRpm": 1392,
+          "coolantTempF": 187,
+          "fuelLevelPct": 96.8
+        },
+        {
+          "waypointIndex": 4,
+          "latitude": 41.97919,
+          "longitude": -86.64835,
+          "speedMph": 63.3,
+          "engineRpm": 1454,
+          "coolantTempF": 202,
+          "fuelLevelPct": 95.2
+        },
+        {
+          "waypointIndex": 5,
+          "latitude": 42.00704,
+          "longitude": -86.31905,
+          "speedMph": 66.4,
+          "engineRpm": 1383,
+          "coolantTempF": 190,
+          "fuelLevelPct": 93.7
+        },
+        {
+          "waypointIndex": 6,
+          "latitude": 42.02746,
+          "longitude": -85.99961,
+          "speedMph": 55.5,
+          "engineRpm": 1555,
+          "coolantTempF": 198,
+          "fuelLevelPct": 92.1
+        },
+        {
+          "waypointIndex": 7,
+          "latitude": 42.0674,
+          "longitude": -85.65798,
+          "speedMph": 60.7,
+          "engineRpm": 1511,
+          "coolantTempF": 188,
+          "fuelLevelPct": 90.5
+        },
+        {
+          "waypointIndex": 8,
+          "latitude": 42.09983,
+          "longitude": -85.33347,
+          "speedMph": 58.3,
+          "engineRpm": 1612,
+          "coolantTempF": 198,
+          "fuelLevelPct": 88.9
+        },
+        {
+          "waypointIndex": 9,
+          "latitude": 42.14853,
+          "longitude": -85.01025,
+          "speedMph": 62.0,
+          "engineRpm": 1618,
+          "coolantTempF": 191,
+          "fuelLevelPct": 87.3
+        },
+        {
+          "waypointIndex": 10,
+          "latitude": 42.16825,
+          "longitude": -84.68151,
+          "speedMph": 63.6,
+          "engineRpm": 1419,
+          "coolantTempF": 204,
+          "fuelLevelPct": 85.7
+        },
+        {
+          "waypointIndex": 11,
+          "latitude": 42.19809,
+          "longitude": -84.34658,
+          "speedMph": 64.4,
+          "engineRpm": 1403,
+          "coolantTempF": 201,
+          "fuelLevelPct": 84.1
+        },
+        {
+          "waypointIndex": 12,
+          "latitude": 42.2324,
+          "longitude": -84.02331,
+          "speedMph": 60.2,
+          "engineRpm": 1401,
+          "coolantTempF": 202,
+          "fuelLevelPct": 82.6
+        },
+        {
+          "waypointIndex": 13,
+          "latitude": 42.27028,
+          "longitude": -83.69691,
+          "speedMph": 67.2,
+          "engineRpm": 1596,
+          "coolantTempF": 190,
+          "fuelLevelPct": 81.0
+        },
+        {
+          "waypointIndex": 14,
+          "latitude": 42.29586,
+          "longitude": -83.37604,
+          "speedMph": 62.1,
+          "engineRpm": 1250,
+          "coolantTempF": 194,
+          "fuelLevelPct": 79.4
+        },
+        {
+          "waypointIndex": 15,
+          "latitude": 42.33018,
+          "longitude": -83.04064,
+          "speedMph": 62.5,
+          "engineRpm": 1585,
+          "coolantTempF": 195,
+          "fuelLevelPct": 77.8
+        }
+      ]
+    },
+    {
+      "vin": "1XKAD49X6CJ882103",
+      "vehicleModel": "Kenworth W990",
+      "licensePlate": "IL-TRK-1192",
+      "driverName": "James Thornton",
+      "hubCity": "Chicago IL",
+      "routeCorridor": "Chicago to St Louis",
+      "tripDistanceMiles": 297.8,
+      "fuelConsumedGal": 55.1,
+      "actualMpg": 5.4,
+      "expectedMpg": 6.8,
+      "fuelVariancePct": "+25.9%",
+      "delayMinutes": 110,
+      "delayReason": "I-55 Pavement Resurfacing",
+      "operationalStatus": "FLAGGED_ANOMALY",
+      "telematicsBreadcrumbs": [
+        {
+          "waypointIndex": 1,
+          "latitude": 41.87283,
+          "longitude": -87.62862,
+          "speedMph": 57.8,
+          "engineRpm": 1492,
+          "coolantTempF": 190,
+          "fuelLevelPct": 100.0
+        },
+        {
+          "waypointIndex": 2,
+          "latitude": 41.90826,
+          "longitude": -87.3058,
+          "speedMph": 63.6,
+          "engineRpm": 1567,
+          "coolantTempF": 195,
+          "fuelLevelPct": 94.1
+        },
+        {
+          "waypointIndex": 3,
+          "latitude": 41.95312,
+          "longitude": -86.96812,
+          "speedMph": 58.1,
+          "engineRpm": 1408,
+          "coolantTempF": 192,
+          "fuelLevelPct": 88.2
+        },
+        {
+          "waypointIndex": 4,
+          "latitude": 41.97622,
+          "longitude": -86.65016,
+          "speedMph": 55.6,
+          "engineRpm": 1493,
+          "coolantTempF": 204,
+          "fuelLevelPct": 82.3
+        },
+        {
+          "waypointIndex": 5,
+          "latitude": 42.00875,
+          "longitude": -86.32166,
+          "speedMph": 60.4,
+          "engineRpm": 1572,
+          "coolantTempF": 203,
+          "fuelLevelPct": 76.4
+        },
+        {
+          "waypointIndex": 6,
+          "latitude": 42.04263,
+          "longitude": -85.9854,
+          "speedMph": 61.4,
+          "engineRpm": 1374,
+          "coolantTempF": 189,
+          "fuelLevelPct": 70.5
+        },
+        {
+          "waypointIndex": 7,
+          "latitude": 42.07208,
+          "longitude": -85.66567,
+          "speedMph": 64.8,
+          "engineRpm": 1644,
+          "coolantTempF": 188,
+          "fuelLevelPct": 64.6
+        },
+        {
+          "waypointIndex": 8,
+          "latitude": 42.10537,
+          "longitude": -85.34126,
+          "speedMph": 65.5,
+          "engineRpm": 1606,
+          "coolantTempF": 201,
+          "fuelLevelPct": 58.7
+        },
+        {
+          "waypointIndex": 9,
+          "latitude": 42.1309,
+          "longitude": -85.00896,
+          "speedMph": 66.9,
+          "engineRpm": 1312,
+          "coolantTempF": 199,
+          "fuelLevelPct": 52.8
+        },
+        {
+          "waypointIndex": 10,
+          "latitude": 42.17325,
+          "longitude": -84.67879,
+          "speedMph": 61.9,
+          "engineRpm": 1536,
+          "coolantTempF": 204,
+          "fuelLevelPct": 46.9
+        },
+        {
+          "waypointIndex": 11,
+          "latitude": 42.19844,
+          "longitude": -84.34786,
+          "speedMph": 60.8,
+          "engineRpm": 1618,
+          "coolantTempF": 201,
+          "fuelLevelPct": 41.0
+        },
+        {
+          "waypointIndex": 12,
+          "latitude": 42.2245,
+          "longitude": -84.02325,
+          "speedMph": 60.8,
+          "engineRpm": 1331,
+          "coolantTempF": 200,
+          "fuelLevelPct": 35.1
+        },
+        {
+          "waypointIndex": 13,
+          "latitude": 42.2587,
+          "longitude": -83.69808,
+          "speedMph": 65.9,
+          "engineRpm": 1391,
+          "coolantTempF": 201,
+          "fuelLevelPct": 29.2
+        },
+        {
+          "waypointIndex": 14,
+          "latitude": 42.29534,
+          "longitude": -83.37287,
+          "speedMph": 60.7,
+          "engineRpm": 1615,
+          "coolantTempF": 194,
+          "fuelLevelPct": 23.3
+        },
+        {
+          "waypointIndex": 15,
+          "latitude": 42.33184,
+          "longitude": -83.0413,
+          "speedMph": 66.6,
+          "engineRpm": 1291,
+          "coolantTempF": 189,
+          "fuelLevelPct": 17.3
+        }
+      ]
+    },
+    {
+      "vin": "2FZACXDX8GKA901243",
+      "vehicleModel": "International LT Series",
+      "licensePlate": "TN-TRK-8831",
+      "driverName": "Amina Al-Mansoor",
+      "hubCity": "Nashville TN",
+      "routeCorridor": "Nashville to Atlanta",
+      "tripDistanceMiles": 248.6,
+      "fuelConsumedGal": 36.5,
+      "actualMpg": 6.81,
+      "expectedMpg": 7.1,
+      "fuelVariancePct": "+4.2%",
+      "delayMinutes": 20,
+      "delayReason": "Chattanooga Ridge Traffic",
+      "operationalStatus": "IN_TRANSIT",
+      "telematicsBreadcrumbs": [
+        {
+          "waypointIndex": 1,
+          "latitude": 41.88097,
+          "longitude": -87.62581,
+          "speedMph": 57.0,
+          "engineRpm": 1359,
+          "coolantTempF": 187,
+          "fuelLevelPct": 100.0
+        },
+        {
+          "waypointIndex": 2,
+          "latitude": 41.90662,
+          "longitude": -87.30009,
+          "speedMph": 61.1,
+          "engineRpm": 1281,
+          "coolantTempF": 191,
+          "fuelLevelPct": 96.1
+        },
+        {
+          "waypointIndex": 3,
+          "latitude": 41.94533,
+          "longitude": -86.97925,
+          "speedMph": 65.0,
+          "engineRpm": 1606,
+          "coolantTempF": 185,
+          "fuelLevelPct": 92.2
+        },
+        {
+          "waypointIndex": 4,
+          "latitude": 41.98053,
+          "longitude": -86.65419,
+          "speedMph": 59.9,
+          "engineRpm": 1253,
+          "coolantTempF": 196,
+          "fuelLevelPct": 88.3
+        },
+        {
+          "waypointIndex": 5,
+          "latitude": 42.00612,
+          "longitude": -86.31534,
+          "speedMph": 66.6,
+          "engineRpm": 1464,
+          "coolantTempF": 202,
+          "fuelLevelPct": 84.4
+        },
+        {
+          "waypointIndex": 6,
+          "latitude": 42.03989,
+          "longitude": -85.99894,
+          "speedMph": 62.8,
+          "engineRpm": 1362,
+          "coolantTempF": 200,
+          "fuelLevelPct": 80.4
+        },
+        {
+          "waypointIndex": 7,
+          "latitude": 42.07339,
+          "longitude": -85.65998,
+          "speedMph": 55.4,
+          "engineRpm": 1422,
+          "coolantTempF": 197,
+          "fuelLevelPct": 76.5
+        },
+        {
+          "waypointIndex": 8,
+          "latitude": 42.1032,
+          "longitude": -85.34725,
+          "speedMph": 67.0,
+          "engineRpm": 1568,
+          "coolantTempF": 202,
+          "fuelLevelPct": 72.6
+        },
+        {
+          "waypointIndex": 9,
+          "latitude": 42.14206,
+          "longitude": -85.00953,
+          "speedMph": 62.3,
+          "engineRpm": 1263,
+          "coolantTempF": 187,
+          "fuelLevelPct": 68.7
+        },
+        {
+          "waypointIndex": 10,
+          "latitude": 42.16782,
+          "longitude": -84.68505,
+          "speedMph": 61.0,
+          "engineRpm": 1275,
+          "coolantTempF": 193,
+          "fuelLevelPct": 64.8
+        },
+        {
+          "waypointIndex": 11,
+          "latitude": 42.19939,
+          "longitude": -84.35314,
+          "speedMph": 59.2,
+          "engineRpm": 1639,
+          "coolantTempF": 197,
+          "fuelLevelPct": 60.9
+        },
+        {
+          "waypointIndex": 12,
+          "latitude": 42.23209,
+          "longitude": -84.01599,
+          "speedMph": 60.5,
+          "engineRpm": 1291,
+          "coolantTempF": 200,
+          "fuelLevelPct": 57.0
+        },
+        {
+          "waypointIndex": 13,
+          "latitude": 42.27282,
+          "longitude": -83.6999,
+          "speedMph": 68.0,
+          "engineRpm": 1429,
+          "coolantTempF": 192,
+          "fuelLevelPct": 53.1
+        },
+        {
+          "waypointIndex": 14,
+          "latitude": 42.2939,
+          "longitude": -83.38029,
+          "speedMph": 63.5,
+          "engineRpm": 1636,
+          "coolantTempF": 185,
+          "fuelLevelPct": 49.2
+        },
+        {
+          "waypointIndex": 15,
+          "latitude": 42.33457,
+          "longitude": -83.04684,
+          "speedMph": 55.3,
+          "engineRpm": 1328,
+          "coolantTempF": 192,
+          "fuelLevelPct": 45.2
+        }
+      ]
+    },
+    {
+      "vin": "1FT8W3BT9NEC449102",
+      "vehicleModel": "Volvo VNL 760",
+      "licensePlate": "GA-TRK-2245",
+      "driverName": "Robert Kowalski",
+      "hubCity": "Atlanta GA",
+      "routeCorridor": "Atlanta to Jacksonville",
+      "tripDistanceMiles": 346.2,
+      "fuelConsumedGal": 49.5,
+      "actualMpg": 6.99,
+      "expectedMpg": 7.2,
+      "fuelVariancePct": "+3.0%",
+      "delayMinutes": 5,
+      "delayReason": "Clear Highway Run",
+      "operationalStatus": "COMPLETED",
+      "telematicsBreadcrumbs": [
+        {
+          "waypointIndex": 1,
+          "latitude": 41.88332,
+          "longitude": -87.6245,
+          "speedMph": 62.3,
+          "engineRpm": 1361,
+          "coolantTempF": 199,
+          "fuelLevelPct": 100.0
+        },
+        {
+          "waypointIndex": 2,
+          "latitude": 41.90781,
+          "longitude": -87.31048,
+          "speedMph": 57.2,
+          "engineRpm": 1560,
+          "coolantTempF": 188,
+          "fuelLevelPct": 94.7
+        },
+        {
+          "waypointIndex": 3,
+          "latitude": 41.94338,
+          "longitude": -86.97789,
+          "speedMph": 59.0,
+          "engineRpm": 1546,
+          "coolantTempF": 185,
+          "fuelLevelPct": 89.4
+        },
+        {
+          "waypointIndex": 4,
+          "latitude": 41.98114,
+          "longitude": -86.65034,
+          "speedMph": 66.8,
+          "engineRpm": 1442,
+          "coolantTempF": 197,
+          "fuelLevelPct": 84.1
+        },
+        {
+          "waypointIndex": 5,
+          "latitude": 42.01072,
+          "longitude": -86.32128,
+          "speedMph": 62.7,
+          "engineRpm": 1571,
+          "coolantTempF": 192,
+          "fuelLevelPct": 78.8
+        },
+        {
+          "waypointIndex": 6,
+          "latitude": 42.04689,
+          "longitude": -85.98752,
+          "speedMph": 66.1,
+          "engineRpm": 1557,
+          "coolantTempF": 188,
+          "fuelLevelPct": 73.5
+        },
+        {
+          "waypointIndex": 7,
+          "latitude": 42.07422,
+          "longitude": -85.67142,
+          "speedMph": 55.5,
+          "engineRpm": 1522,
+          "coolantTempF": 198,
+          "fuelLevelPct": 68.2
+        },
+        {
+          "waypointIndex": 8,
+          "latitude": 42.10375,
+          "longitude": -85.33941,
+          "speedMph": 63.4,
+          "engineRpm": 1256,
+          "coolantTempF": 198,
+          "fuelLevelPct": 62.9
+        },
+        {
+          "waypointIndex": 9,
+          "latitude": 42.13817,
+          "longitude": -85.01249,
+          "speedMph": 67.5,
+          "engineRpm": 1575,
+          "coolantTempF": 199,
+          "fuelLevelPct": 57.6
+        },
+        {
+          "waypointIndex": 10,
+          "latitude": 42.16809,
+          "longitude": -84.6881,
+          "speedMph": 64.5,
+          "engineRpm": 1583,
+          "coolantTempF": 193,
+          "fuelLevelPct": 52.3
+        },
+        {
+          "waypointIndex": 11,
+          "latitude": 42.19351,
+          "longitude": -84.36299,
+          "speedMph": 65.1,
+          "engineRpm": 1488,
+          "coolantTempF": 198,
+          "fuelLevelPct": 47.0
+        },
+        {
+          "waypointIndex": 12,
+          "latitude": 42.23733,
+          "longitude": -84.03404,
+          "speedMph": 59.2,
+          "engineRpm": 1375,
+          "coolantTempF": 187,
+          "fuelLevelPct": 41.7
+        },
+        {
+          "waypointIndex": 13,
+          "latitude": 42.26565,
+          "longitude": -83.69527,
+          "speedMph": 64.8,
+          "engineRpm": 1541,
+          "coolantTempF": 204,
+          "fuelLevelPct": 36.4
+        },
+        {
+          "waypointIndex": 14,
+          "latitude": 42.29679,
+          "longitude": -83.37717,
+          "speedMph": 61.4,
+          "engineRpm": 1416,
+          "coolantTempF": 190,
+          "fuelLevelPct": 31.1
+        },
+        {
+          "waypointIndex": 15,
+          "latitude": 42.32673,
+          "longitude": -83.04543,
+          "speedMph": 58.4,
+          "engineRpm": 1393,
+          "coolantTempF": 204,
+          "fuelLevelPct": 25.8
+        }
+      ]
+    },
+    {
+      "vin": "3AKJGLDR7NS119842",
+      "vehicleModel": "Freightliner Cascadia 126",
+      "licensePlate": "TX-TRK-9904",
+      "driverName": "David Chen",
+      "hubCity": "Dallas TX",
+      "routeCorridor": "Dallas to Houston",
+      "tripDistanceMiles": 239.4,
+      "fuelConsumedGal": 44.3,
+      "actualMpg": 5.4,
+      "expectedMpg": 7.0,
+      "fuelVariancePct": "+29.6%",
+      "delayMinutes": 95,
+      "delayReason": "I-45 Flooding Detour",
+      "operationalStatus": "FLAGGED_ANOMALY",
+      "telematicsBreadcrumbs": [
+        {
+          "waypointIndex": 1,
+          "latitude": 41.87689,
+          "longitude": -87.63363,
+          "speedMph": 55.1,
+          "engineRpm": 1347,
+          "coolantTempF": 187,
+          "fuelLevelPct": 100.0
+        },
+        {
+          "waypointIndex": 2,
+          "latitude": 41.91076,
+          "longitude": -87.29727,
+          "speedMph": 62.2,
+          "engineRpm": 1373,
+          "coolantTempF": 200,
+          "fuelLevelPct": 95.3
+        },
+        {
+          "waypointIndex": 3,
+          "latitude": 41.93932,
+          "longitude": -86.97955,
+          "speedMph": 65.3,
+          "engineRpm": 1297,
+          "coolantTempF": 194,
+          "fuelLevelPct": 90.5
+        },
+        {
+          "waypointIndex": 4,
+          "latitude": 41.9766,
+          "longitude": -86.63996,
+          "speedMph": 59.0,
+          "engineRpm": 1547,
+          "coolantTempF": 196,
+          "fuelLevelPct": 85.8
+        },
+        {
+          "waypointIndex": 5,
+          "latitude": 42.00155,
+          "longitude": -86.31906,
+          "speedMph": 60.5,
+          "engineRpm": 1631,
+          "coolantTempF": 202,
+          "fuelLevelPct": 81.0
+        },
+        {
+          "waypointIndex": 6,
+          "latitude": 42.03621,
+          "longitude": -85.98585,
+          "speedMph": 58.5,
+          "engineRpm": 1378,
+          "coolantTempF": 192,
+          "fuelLevelPct": 76.3
+        },
+        {
+          "waypointIndex": 7,
+          "latitude": 42.07475,
+          "longitude": -85.66298,
+          "speedMph": 56.6,
+          "engineRpm": 1524,
+          "coolantTempF": 190,
+          "fuelLevelPct": 71.5
+        },
+        {
+          "waypointIndex": 8,
+          "latitude": 42.10769,
+          "longitude": -85.33016,
+          "speedMph": 58.6,
+          "engineRpm": 1551,
+          "coolantTempF": 201,
+          "fuelLevelPct": 66.8
+        },
+        {
+          "waypointIndex": 9,
+          "latitude": 42.12561,
+          "longitude": -85.01839,
+          "speedMph": 65.8,
+          "engineRpm": 1401,
+          "coolantTempF": 192,
+          "fuelLevelPct": 62.0
+        },
+        {
+          "waypointIndex": 10,
+          "latitude": 42.16679,
+          "longitude": -84.67969,
+          "speedMph": 64.2,
+          "engineRpm": 1314,
+          "coolantTempF": 193,
+          "fuelLevelPct": 57.3
+        },
+        {
+          "waypointIndex": 11,
+          "latitude": 42.20349,
+          "longitude": -84.35504,
+          "speedMph": 58.8,
+          "engineRpm": 1314,
+          "coolantTempF": 205,
+          "fuelLevelPct": 52.5
+        },
+        {
+          "waypointIndex": 12,
+          "latitude": 42.2382,
+          "longitude": -84.03236,
+          "speedMph": 66.3,
+          "engineRpm": 1543,
+          "coolantTempF": 194,
+          "fuelLevelPct": 47.8
+        },
+        {
+          "waypointIndex": 13,
+          "latitude": 42.26135,
+          "longitude": -83.69963,
+          "speedMph": 57.4,
+          "engineRpm": 1276,
+          "coolantTempF": 193,
+          "fuelLevelPct": 43.0
+        },
+        {
+          "waypointIndex": 14,
+          "latitude": 42.30433,
+          "longitude": -83.37529,
+          "speedMph": 65.7,
+          "engineRpm": 1455,
+          "coolantTempF": 200,
+          "fuelLevelPct": 38.3
+        },
+        {
+          "waypointIndex": 15,
+          "latitude": 42.3377,
+          "longitude": -83.04264,
+          "speedMph": 55.7,
+          "engineRpm": 1326,
+          "coolantTempF": 203,
+          "fuelLevelPct": 33.6
+        }
+      ]
+    }
+  ]
+}
